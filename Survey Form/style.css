@@ -1,0 +1,112 @@
+body
+{
+    margin: 0;
+    padding: 20px;
+}
+
+/* form section */
+.info
+{
+    margin-bottom: 20px;
+}
+
+.info label
+{
+    display: block;
+    margin-bottom: 5px;
+    font-family: sans-serif;
+}
+
+.info input
+{
+    padding: 5px;
+    width: 400px;
+    margin-bottom: 15px;
+}
+
+.role 
+{
+    margin-bottom: 20px;
+}
+
+.role label
+{
+    display: block;
+    margin-bottom: 5px;
+    font-family: sans-serif;
+}
+
+.role select
+{
+    padding: 6px;
+    width: 400px;
+}
+
+.recommendation
+{
+    margin-bottom: 20px;
+}
+
+.recommendation label p
+{
+    display: block;
+    margin-bottom: 5px;
+    font-family: sans-serif;
+}
+
+.recommendation label
+{
+    display: block;
+}
+
+.lang
+{
+    margin-bottom: 20px;
+}
+
+.lang label p
+{
+    display: block;
+    margin-bottom: 5px;
+    font-family: sans-serif;
+}
+
+.lang label
+{
+    display: block;
+}
+
+.suggestions
+{
+    margin-bottom: 20px;
+}
+
+.suggestions p
+{
+    margin: 0;
+    margin-bottom: 5px;    
+}
+
+.suggestions textarea
+{
+    min-width: 300px;
+    min-height: 50px;
+    padding: 5px;
+    width: 300px;
+}
+
+/* submission section */
+.submit button
+{
+    border-radius: 5px;
+    padding: 5px;
+    width: 300px;
+    color: white;
+    background-color: rgb(48, 198, 48);
+}
+
+.submit button:hover
+{
+    cursor: pointer;
+    background-color: rgb(149, 176, 122);
+}
