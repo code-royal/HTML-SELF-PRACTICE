@@ -1,0 +1,41 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.sections
+{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.sections .nav
+{
+    height: 700px;
+    width: 200px;
+    padding: 10px;
+    background-color: #1e1d30;
+    color: white;
+}
+
+.sections .nav h1
+{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.sections .nav a
+{
+    font-family: sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+.sections .body
+{
+    font-family: sans-serif;
+    padding: 10px;
+    background-color: white;
+}
